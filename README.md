@@ -7,3 +7,5 @@ This repository contains two (2) files:
 * Jupyter notebook is a skeleton for your implementation.
 
 Find assignment details on Canvas.
+
+Find assigment solutions at Happiness - Assignment 1 - CS 663 (Machine Learning).ipynb
